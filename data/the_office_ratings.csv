@@ -1,0 +1,192 @@
+Episode_ID,Title,Rating
+S01E01,"S1.E1 ∙ Pilot",7.3
+S01E02,"S1.E2 ∙ Diversity Day",8.1
+S01E03,"S1.E3 ∙ Health Care",7.6
+S01E04,"S1.E4 ∙ The Alliance",7.8
+S01E05,"S1.E5 ∙ Basketball",8.2
+S01E06,"S1.E6 ∙ Hot Girl",7.5
+S02E01,"S2.E1 ∙ The Dundies",8.6
+S02E02,"S2.E2 ∙ Sexual Harassment",8.1
+S02E03,"S2.E3 ∙ Office Olympics",8.2
+S02E04,"S2.E4 ∙ The Fire",8.1
+S02E05,"S2.E5 ∙ Halloween",7.9
+S02E06,"S2.E6 ∙ The Fight",7.9
+S02E07,"S2.E7 ∙ The Client",8.5
+S02E08,"S2.E8 ∙ Performance Review",8.0
+S02E09,"S2.E9 ∙ E-Mail Surveillance",8.2
+S02E10,"S2.E10 ∙ Christmas Party",8.7
+S02E11,"S2.E11 ∙ Booze Cruise",8.5
+S02E12,"S2.E12 ∙ The Injury",9.0
+S02E13,"S2.E13 ∙ The Secret",8.1
+S02E14,"S2.E14 ∙ The Carpet",7.6
+S02E15,"S2.E15 ∙ Boys and Girls",8.0
+S02E16,"S2.E16 ∙ Valentine's Day",8.1
+S02E17,"S2.E17 ∙ Dwight's Speech",8.3
+S02E18,"S2.E18 ∙ Take Your Daughter to Work Day",8.2
+S02E19,"S2.E19 ∙ Michael's Birthday",8.0
+S02E20,"S2.E20 ∙ Drug Testing",8.2
+S02E21,"S2.E21 ∙ Conflict Resolution",8.5
+S02E22,"S2.E22 ∙ Casino Night",9.3
+S03E01,"S3.E1 ∙ Gay Witch Hunt",8.9
+S03E02,"S3.E2 ∙ The Convention",8.0
+S03E03,"S3.E3 ∙ The Coup",8.4
+S03E04,"S3.E4 ∙ Grief Counseling",7.8
+S03E05,"S3.E5 ∙ Initiation",7.9
+S03E06,"S3.E6 ∙ Diwali",7.7
+S03E07,"S3.E7 ∙ Branch Closing",8.5
+S03E08,"S3.E8 ∙ The Merger",8.6
+S03E09,"S3.E9 ∙ The Convict",8.2
+S03E10,"S3.E10 ∙ A Benihana Christmas",8.6
+S03E11,"S3.E11 ∙ Back from Vacation",8.5
+S03E12,"S3.E12 ∙ Traveling Salesmen",8.5
+S03E13,"S3.E13 ∙ The Return",8.7
+S03E14,"S3.E14 ∙ Ben Franklin",7.8
+S03E15,"S3.E15 ∙ Phyllis' Wedding",8.0
+S03E16,"S3.E16 ∙ Business School",8.8
+S03E17,"S3.E17 ∙ Cocktails",8.3
+S03E18,"S3.E18 ∙ The Negotiation",8.9
+S03E19,"S3.E19 ∙ Safety Training",8.6
+S03E20,"S3.E20 ∙ Product Recall",8.5
+S03E21,"S3.E21 ∙ Women's Appreciation",8.6
+S03E22,"S3.E22 ∙ Beach Games",9.0
+S03E23,"S3.E23 ∙ The Job",9.2
+S04E01,"S4.E1 ∙ Fun Run",8.7
+S04E02,"S4.E2 ∙ Dunder Mifflin Infinity",8.1
+S04E03,"S4.E3 ∙ Launch Party",8.2
+S04E04,"S4.E4 ∙ Money",8.5
+S04E05,"S4.E5 ∙ Local Ad",8.6
+S04E06,"S4.E6 ∙ Branch Wars",8.3
+S04E07,"S4.E7 ∙ Survivor Man",8.0
+S04E08,"S4.E8 ∙ The Deposition",8.6
+S04E09,"S4.E9 ∙ Dinner Party",9.4
+S04E10,"S4.E10 ∙ Chair Model",7.8
+S04E11,"S4.E11 ∙ Night Out",8.5
+S04E12,"S4.E12 ∙ Did I Stutter?",8.1
+S04E13,"S4.E13 ∙ Job Fair",7.6
+S04E14,"S4.E14 ∙ Goodbye, Toby",9.2
+S05E01,"S5.E1 ∙ Weight Loss",8.7
+S05E02,"S5.E2 ∙ Business Ethics",8.1
+S05E03,"S5.E3 ∙ Baby Shower",7.8
+S05E04,"S5.E4 ∙ Crime Aid",7.9
+S05E05,"S5.E5 ∙ Employee Transfer",7.8
+S05E06,"S5.E6 ∙ Customer Survey",8.4
+S05E07,"S5.E7 ∙ Business Trip",8.0
+S05E08,"S5.E8 ∙ Frame Toby",8.5
+S05E09,"S5.E9 ∙ The Surplus",8.6
+S05E10,"S5.E10 ∙ Moroccan Christmas",8.2
+S05E11,"S5.E11 ∙ The Duel",8.6
+S05E12,"S5.E12 ∙ Prince Family Paper",7.8
+S05E13,"S5.E13 ∙ Stress Relief",9.7
+S05E14,"S5.E14 ∙ Lecture Circuit: Part 1",8.0
+S05E15,"S5.E15 ∙ Lecture Circuit: Part 2",8.0
+S05E16,"S5.E16 ∙ Blood Drive",7.8
+S05E17,"S5.E17 ∙ Golden Ticket",8.5
+S05E18,"S5.E18 ∙ New Boss",8.1
+S05E19,"S5.E19 ∙ Two Weeks",8.2
+S05E20,"S5.E20 ∙ Dream Team",8.1
+S05E21,"S5.E21 ∙ Michael Scott Paper Company",8.5
+S05E22,"S5.E22 ∙ Heavy Competition",8.5
+S05E23,"S5.E23 ∙ Broke",9.2
+S05E24,"S5.E24 ∙ Casual Friday",8.1
+S05E25,"S5.E25 ∙ Cafe Disco",8.7
+S05E26,"S5.E26 ∙ Company Picnic",8.9
+S06E01,"S6.E1 ∙ Gossip",8.7
+S06E02,"S6.E2 ∙ The Meeting",7.9
+S06E03,"S6.E3 ∙ The Promotion",7.8
+S06E04,"S6.E4 ∙ Niagara: Part 1",9.2
+S06E05,"S6.E5 ∙ Niagara: Part 2",9.4
+S06E06,"S6.E6 ∙ Mafia",7.5
+S06E07,"S6.E7 ∙ The Lover",8.5
+S06E08,"S6.E8 ∙ Koi Pond",8.0
+S06E09,"S6.E9 ∙ Double Date",7.9
+S06E10,"S6.E10 ∙ Murder",8.6
+S06E11,"S6.E11 ∙ Shareholder Meeting",8.0
+S06E12,"S6.E12 ∙ Scott's Tots",8.2
+S06E13,"S6.E13 ∙ Secret Santa",8.4
+S06E14,"S6.E14 ∙ The Banker",6.7
+S06E15,"S6.E15 ∙ Sabre",7.5
+S06E16,"S6.E16 ∙ Manager and Salesman",7.8
+S06E17,"S6.E17 ∙ The Delivery: Part 1",8.3
+S06E18,"S6.E18 ∙ The Delivery: Part 2",8.4
+S06E19,"S6.E19 ∙ St. Patrick's Day",7.5
+S06E20,"S6.E20 ∙ New Leads",7.6
+S06E21,"S6.E21 ∙ Happy Hour",8.4
+S06E22,"S6.E22 ∙ Secretary's Day",7.6
+S06E23,"S6.E23 ∙ Body Language",7.7
+S06E24,"S6.E24 ∙ The Cover-Up",8.0
+S06E25,"S6.E25 ∙ The Chump",7.6
+S06E26,"S6.E26 ∙ Whistleblower",7.8
+S07E01,"S7.E1 ∙ Nepotism",8.2
+S07E02,"S7.E2 ∙ Counseling",8.0
+S07E03,"S7.E3 ∙ Andy's Play",8.1
+S07E04,"S7.E4 ∙ Sex Ed",7.7
+S07E05,"S7.E5 ∙ The Sting",7.6
+S07E06,"S7.E6 ∙ Costume Contest",8.0
+S07E07,"S7.E7 ∙ Christening",7.2
+S07E08,"S7.E8 ∙ Viewing Party",7.7
+S07E09,"S7.E9 ∙ WUPHF.com",7.5
+S07E10,"S7.E10 ∙ China",8.0
+S07E11,"S7.E11 ∙ Classy Christmas, Part 1",8.8
+S07E12,"S7.E12 ∙ Classy Christmas, Part 2",8.6
+S07E13,"S7.E13 ∙ Ultimatum",8.1
+S07E14,"S7.E14 ∙ The Seminar",7.5
+S07E15,"S7.E15 ∙ The Search",8.4
+S07E16,"S7.E16 ∙ PDA",8.2
+S07E17,"S7.E17 ∙ Threat Level Midnight",9.3
+S07E18,"S7.E18 ∙ Todd Packer",7.3
+S07E19,"S7.E19 ∙ Garage Sale",9.3
+S07E20,"S7.E20 ∙ Training Day",7.5
+S07E21,"S7.E21 ∙ Michael's Last Dundies",8.9
+S07E22,"S7.E22 ∙ Goodbye, Michael",9.8
+S07E23,"S7.E23 ∙ Goodbye, Michael Part 2",9.6
+S07E24,"S7.E24 ∙ The Inner Circle",7.4
+S07E25,"S7.E25 ∙ Dwight K. Schrute, (Acting) Manager",8.5
+S07E26,"S7.E26 ∙ Search Committee",8.5
+S07E27,"S7.E27 ∙ Search Committee, Part 2",8.1
+S08E01,"S8.E1 ∙ The List",7.9
+S08E02,"S8.E2 ∙ The Incentive",7.9
+S08E03,"S8.E3 ∙ Lotto",7.1
+S08E04,"S8.E4 ∙ Garden Party",8.0
+S08E05,"S8.E5 ∙ Spooked",7.3
+S08E06,"S8.E6 ∙ Doomsday",7.4
+S08E07,"S8.E7 ∙ Pam's Replacement",7.5
+S08E08,"S8.E8 ∙ Gettysburg",6.6
+S08E09,"S8.E9 ∙ Mrs. California",7.5
+S08E10,"S8.E10 ∙ Christmas Wishes",7.7
+S08E11,"S8.E11 ∙ Trivia",7.7
+S08E12,"S8.E12 ∙ Pool Party",7.9
+S08E13,"S8.E13 ∙ Jury Duty",7.3
+S08E14,"S8.E14 ∙ Special Project",7.5
+S08E15,"S8.E15 ∙ Tallahassee",7.6
+S08E16,"S8.E16 ∙ After Hours",7.9
+S08E17,"S8.E17 ∙ Test the Store",7.6
+S08E18,"S8.E18 ∙ Last Day in Florida",7.6
+S08E19,"S8.E19 ∙ Get the Girl",6.3
+S08E20,"S8.E20 ∙ Welcome Party",6.7
+S08E21,"S8.E21 ∙ Angry Andy",6.6
+S08E22,"S8.E22 ∙ Fundraiser",6.8
+S08E23,"S8.E23 ∙ Turf War",7.4
+S08E24,"S8.E24 ∙ Free Family Portrait Studio",7.5
+S09E01,"S9.E1 ∙ New Guys",7.3
+S09E02,"S9.E2 ∙ Roy's Wedding",6.8
+S09E03,"S9.E3 ∙ Andy's Ancestry",7.1
+S09E04,"S9.E4 ∙ Work Bus",7.6
+S09E05,"S9.E5 ∙ Here Comes Treble",6.7
+S09E06,"S9.E6 ∙ The Boat",7.5
+S09E07,"S9.E7 ∙ The Whale",7.4
+S09E08,"S9.E8 ∙ The Target",7.7
+S09E09,"S9.E9 ∙ Dwight Christmas",8.2
+S09E10,"S9.E10 ∙ Lice",7.4
+S09E11,"S9.E11 ∙ Suit Warehouse",7.5
+S09E12,"S9.E12 ∙ Customer Loyalty",7.6
+S09E13,"S9.E13 ∙ Junior Salesman",7.3
+S09E14,"S9.E14 ∙ Vandalism",7.1
+S09E15,"S9.E15 ∙ Couples Discount",6.9
+S09E16,"S9.E16 ∙ Moving On",7.7
+S09E17,"S9.E17 ∙ The Farm",7.3
+S09E18,"S9.E18 ∙ Promos",7.7
+S09E19,"S9.E19 ∙ Stairmageddon",7.8
+S09E20,"S9.E20 ∙ Paper Airplane",7.8
+S09E21,"S9.E21 ∙ Livin' the Dream",9.0
+S09E22,"S9.E22 ∙ A.A.R.M.",9.4
+S09E23,"S9.E23 ∙ Finale",9.8
